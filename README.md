@@ -20,3 +20,7 @@ The device lspci
         Capabilities: <access denied>
         
 """
+
+the device have a feature ROM, address is 0xec300000, size is 512K
+
+the python script is to access the ROM 
